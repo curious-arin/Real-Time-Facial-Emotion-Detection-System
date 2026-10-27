@@ -1,6 +1,6 @@
 # Real-Time Facial Emotion Detection System 😊
 
-A deep learning project that detects faces through a webcam and classifies facial expressions into seven emotion categories using a **PyTorch CNN**, **MediaPipe**, and a **Streamlit** web application.
+A deep learning project that detects faces through a webcam and classifies facial expressions into seven emotion categories using a **PyTorch CNN**, **MediaPipe**, and a **Streamlit** web application.  
 
 ## 🧠 What I Learned
 
